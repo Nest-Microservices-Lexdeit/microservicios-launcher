@@ -1,3 +1,6 @@
 [submodule "gateway-microservice"]
 	path = gateway-microservice
 	url = https://github.com/Nest-Microservices-Lexdeit/gateway-microservice.git
+[submodule "products-microservice"]
+	path = products-microservice
+	url = https://github.com/Nest-Microservices-Lexdeit/products-microservice.git
